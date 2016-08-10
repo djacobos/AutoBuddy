@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Auto Buddy</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Home</string>
+    <string name="action_settings200">Maintenance</string>
+    <string name="action_settings300">Alerts</string>
+    <string name="action_settings400">Settings</string>
 </resources>

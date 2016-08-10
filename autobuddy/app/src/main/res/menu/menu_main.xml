@@ -7,4 +7,20 @@
         android:orderInCategory="100"
         android:title="@string/action_settings"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings200"
+        android:orderInCategory="200"
+        android:title="@string/action_settings200"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_settings300"
+        android:orderInCategory="300"
+        android:title="@string/action_settings300"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings400"
+        android:orderInCategory="400"
+        android:title="@string/action_settings400"
+        app:showAsAction="never" />
 </menu>
