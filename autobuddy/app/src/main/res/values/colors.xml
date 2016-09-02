@@ -3,4 +3,5 @@
     <color name="colorPrimary">#4F6F7B</color>
     <color name="colorPrimaryDark">#1d4656</color>
     <color name="colorAccent">#299589</color>
+    <color name="colorHomeRoundCardViews">#ea4848</color>
 </resources>
